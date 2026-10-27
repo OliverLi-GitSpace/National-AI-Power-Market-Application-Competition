@@ -1,0 +1,1 @@
+{"capacity_mwh": 10, "max_power_mw": 2, "efficiency": 0.95, "soc_min": 0.1, "soc_max": 0.9, "soc_initial": 0.5, "soc_terminal_min": 0.5}
